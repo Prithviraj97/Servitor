@@ -16,7 +16,7 @@ PAGE="""\
 </body>
 </html>
 """
-
+#copied from Raspberry Pi coomunity page. 
 class StreamingOutput(object):
     def __init__(self):
         self.frame = None
